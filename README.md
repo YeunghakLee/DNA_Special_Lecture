@@ -1,2 +1,2 @@
 # DNA_Special_Lecture
-DNA 특강
+###인공지능(AI) 특강
